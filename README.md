@@ -48,7 +48,7 @@ AI pet simulation engine built with Laravel featuring:
 
 MVC incident management platform developed with Laravel.
 
-<a href="https://github.com/malmental/S5_API_frontend">
+<a href="https://github.com/malmental/S5_API_REST">
   <img src="https://raw.githubusercontent.com/malmental/S5_API_REST/develop/docs/images/incidensly_letter.png" width="500">
 </a>
 
