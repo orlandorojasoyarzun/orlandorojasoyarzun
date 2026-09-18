@@ -48,6 +48,7 @@ Web app that identifies fish species from a photo using AI vision (Laravel + Ope
   <img src=" " width="700">
 </a>
 
+Watchlist: Film festival deadline tracking for independent filmmakers.
 - On-demand API sync with credit caching — FestivalAPI costs 1 credit per festival; the app only calls the detail endpoint when a user actually subscribes, not on browse.
 - Production-festival matching algorithm — scores every festival against a registered short or feature film by genre, category, runtime and country.
 - Queued notifications via Laravel ShouldQueue — transactional emails go through the database queue without blocking the user-facing request.
