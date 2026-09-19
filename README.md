@@ -45,7 +45,7 @@ Web app that identifies fish species from a photo using AI vision (Laravel + Ope
 ## Consultfest
 
 <a href="https://github.com/orlandorojasoyarzun/consultfest">
-  <img src=" " width="700">
+  <img src="https://github.com/orlandorojasoyarzun/consultfest/blob/develop/public/images/consultfest-logo.png" width="700">
 </a>
 
 Watchlist: Film festival deadline tracking for independent filmmakers.
